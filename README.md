@@ -68,17 +68,20 @@ This project demonstrates:
 
 Age-Gender-Detection/
 │
-├── dataset/
-│ └── UTKFace/
+
 │
 ├── notebooks/
 │ └── age_gender_training.ipynb
+
 │
 ├── models/
 │ └── model.pkl / model.h5
+
 │
 ├── requirements.txt
+
 ├── README.md
+
 └── app.py (optional)
 
 ---
@@ -99,15 +102,6 @@ venv\Scripts\activate           # Windows
 3️⃣ Install Required Libraries
 pip install -r requirements.txt
 
-
-📦 requirements.txt
-tensorflow
-numpy
-pandas
-opencv-python
-matplotlib
-scikit-learn
-joblib
 
 ▶️ How to Run the Project
 🔹 Training the Model
