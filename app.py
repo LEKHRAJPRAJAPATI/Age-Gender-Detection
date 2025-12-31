@@ -6,7 +6,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 def load_model():
-    with open('model.pkl', 'rb') as file:
+    with open('models/model.pkl', 'rb') as file:
         model = pickle.load(file)
     return model
 
