@@ -2,7 +2,6 @@ tensorflow
 numpy
 pandas
 streamlit
-PIL
 matplotlib
 
 
