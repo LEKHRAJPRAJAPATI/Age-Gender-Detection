@@ -66,6 +66,20 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
+Age-Gender-Detection/
+│
+├── dataset/
+│ └── UTKFace/
+│
+├── notebooks/
+│ └── age_gender_training.ipynb
+│
+├── models/
+│ └── model.pkl / model.h5
+│
+├── requirements.txt
+├── README.md
+└── app.py (optional)
 
 ---
 
