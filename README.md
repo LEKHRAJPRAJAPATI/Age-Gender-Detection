@@ -67,22 +67,21 @@ This project demonstrates:
 ## 📁 Project Structure
 
 Age-Gender-Detection/
-│
+                   │
 
-│
-├── notebooks/
-│ └── age_gender_training.ipynb
+                   ├── notebooks/
+                                │ └── age_gender_training.ipynb
 
-│
-├── models/
-│ └── model.pkl / model.h5
+                   │
+                   ├── models/
+                             │ └── model.pkl
 
-│
-├── requirements.txt
+                   │
+                   ├── requirements.txt
 
-├── README.md
+                   ├── README.md
 
-└── app.py (optional)
+                   |└── app.py
 
 ---
 
@@ -109,9 +108,9 @@ jupyter notebook
 
 📊 Results
 
-Gender classification achieved high accuracy
+Gender classification achieved high accuracy around 91.04%
 
-Age prediction evaluated using Mean Absolute Error (MAE)
+Age prediction evaluated using Mean Absolute Error (MAE) 4.8298
 
 Model performs well on unseen facial images
 
